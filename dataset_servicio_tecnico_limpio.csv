@@ -1,0 +1,201 @@
+ID_Equipo,Tipo_Equipo,Tipo_Falla,Nivel_Experiencia_Tecnico,Piezas_Reemplazadas,Garantia_Activa,Tiempo_Reparacion_Horas,Costo_Repuesto_USD
+EQ-1000,Desktop,Hardware Pantalla,Junior,0,No,9.5,0.0
+EQ-1001,Smartphone,Software,Senior,0,Sí,2.4,0.0
+EQ-1002,Impresora,Software,Semi-Senior,0,No,5.3,0.0
+EQ-1003,Desktop,Mantenimiento General,Senior,0,No,4.1,0.0
+EQ-1004,Laptop,Hardware Pantalla,Junior,0,Sí,14.2,0.0
+EQ-1005,Laptop,Software,Senior,1,No,7.4,68.47075651647552
+EQ-1006,Laptop,Software,Junior,1,No,7.6,65.73710808659695
+EQ-1007,Smartphone,Placa Madre,Junior,1,Sí,26.7,67.86881893151806
+EQ-1008,Servidor,Software,Senior,2,No,6.6,92.26999777755196
+EQ-1009,Impresora,Software,Junior,2,No,11.3,138.1401059410026
+EQ-1010,Laptop,Hardware Pantalla,Junior,0,Sí,9.5,0.0
+EQ-1011,Smartphone,Placa Madre,Senior,2,No,19.9,105.33869175530195
+EQ-1012,Impresora,Placa Madre,Senior,0,Sí,14.4,0.0
+EQ-1013,Laptop,Software,Semi-Senior,1,No,5.6,39.47514979401622
+EQ-1014,Laptop,Placa Madre,Semi-Senior,1,No,18.6,41.98769209228387
+EQ-1015,Laptop,Software,Semi-Senior,2,No,6.7,87.54072299311065
+EQ-1016,Laptop,Software,Junior,0,No,6.1,0.0
+EQ-1017,Desktop,Placa Madre,Junior,3,No,32.5,129.94045822866224
+EQ-1018,Desktop,Hardware Pantalla,Semi-Senior,0,No,9.9,0.0
+EQ-1019,Laptop,Mantenimiento General,Semi-Senior,1,No,4.3,34.252647852459646
+EQ-1020,Servidor,Placa Madre,Semi-Senior,0,No,19.0,0.0
+EQ-1021,Laptop,Hardware Pantalla,Semi-Senior,0,Sí,7.9,0.0
+EQ-1022,Laptop,Software,Junior,1,No,8.5,24.39175542610662
+EQ-1023,Desktop,Software,Semi-Senior,1,Sí,5.5,56.206915602882674
+EQ-1024,Desktop,Software,Junior,1,Sí,9.4,49.47915854136485
+EQ-1025,Impresora,Software,Semi-Senior,3,Sí,11.4,171.05275241823102
+EQ-1026,Laptop,Mantenimiento General,Semi-Senior,1,No,5.9,47.80964262803434
+EQ-1027,Desktop,Software,Senior,2,No,8.0,85.57429362150758
+EQ-1028,Desktop,Mantenimiento General,Junior,1,No,4.6,71.80001897430952
+EQ-1029,Laptop,Hardware Pantalla,Junior,0,Sí,12.6,0.0
+EQ-1030,Servidor,Placa Madre,Junior,1,No,31.5,48.75091265778386
+EQ-1031,Laptop,Hardware Pantalla,Semi-Senior,1,No,11.0,21.538523948386143
+EQ-1032,Laptop,Hardware Pantalla,Semi-Senior,2,No,9.9,80.94973931513877
+EQ-1033,Smartphone,Hardware Pantalla,Junior,0,No,11.9,0.0
+EQ-1034,Smartphone,Software,Junior,0,No,6.7,0.0
+EQ-1035,Impresora,Placa Madre,Semi-Senior,0,No,16.5,0.0
+EQ-1036,Laptop,Software,Junior,0,No,3.3,0.0
+EQ-1037,Laptop,Software,Senior,0,Sí,2.2,0.0
+EQ-1038,Servidor,Hardware Pantalla,Semi-Senior,0,Sí,6.5,0.0
+EQ-1039,Desktop,Software,Junior,0,No,6.0,0.0
+EQ-1040,Laptop,Mantenimiento General,Junior,1,Sí,3.3,49.47915854136485
+EQ-1041,Desktop,Mantenimiento General,Senior,1,No,5.2,77.33142175729608
+EQ-1042,Laptop,Mantenimiento General,Junior,1,No,5.2,21.093954960581698
+EQ-1043,Smartphone,Software,Junior,3,No,14.0,171.05275241823102
+EQ-1044,Laptop,Software,Senior,0,No,2.2,0.0
+EQ-1045,Servidor,Mantenimiento General,Senior,0,No,2.0,0.0
+EQ-1046,Laptop,Hardware Pantalla,Senior,3,No,11.3,221.64549881099765
+EQ-1047,Desktop,Mantenimiento General,Semi-Senior,0,No,1.6,0.0
+EQ-1048,Desktop,Mantenimiento General,Junior,1,No,11.4,75.6220726877784
+EQ-1049,Laptop,Mantenimiento General,Junior,1,No,5.5,23.61604341737365
+EQ-1050,Smartphone,Software,Semi-Senior,1,No,8.0,76.06616160833086
+EQ-1051,Impresora,Software,Semi-Senior,0,No,1.8,0.0
+EQ-1052,Smartphone,Mantenimiento General,Semi-Senior,1,No,5.7,26.085249706952993
+EQ-1053,Smartphone,Software,Senior,1,No,5.8,49.15230555117954
+EQ-1054,Desktop,Software,Junior,1,No,8.0,49.47915854136485
+EQ-1055,Smartphone,Hardware Pantalla,Semi-Senior,0,No,6.9,0.0
+EQ-1056,Laptop,Mantenimiento General,Junior,1,No,6.0,38.43739789557719
+EQ-1057,Laptop,Placa Madre,Semi-Senior,0,Sí,17.2,0.0
+EQ-1058,Laptop,Hardware Pantalla,Junior,2,Sí,20.8,104.69935320103053
+EQ-1059,Laptop,Software,Junior,0,No,6.0,0.0
+EQ-1060,Desktop,Hardware Pantalla,Junior,3,Sí,19.0,169.8600809959653
+EQ-1061,Laptop,Mantenimiento General,Semi-Senior,1,Sí,8.6,62.969040453391614
+EQ-1062,Impresora,Software,Semi-Senior,3,Sí,8.2,109.07232013203607
+EQ-1063,Desktop,Hardware Pantalla,Semi-Senior,2,Sí,12.1,89.62589218304218
+EQ-1064,Laptop,Mantenimiento General,Senior,0,Sí,1.6,0.0
+EQ-1065,Desktop,Placa Madre,Junior,3,No,32.8,92.60688291624245
+EQ-1066,Laptop,Placa Madre,Junior,1,No,28.6,60.86707123789897
+EQ-1067,Impresora,Placa Madre,Senior,0,No,11.1,0.0
+EQ-1068,Laptop,Software,Junior,0,No,6.4,0.0
+EQ-1069,Smartphone,Software,Senior,2,Sí,4.7,125.08555140669192
+EQ-1070,Impresora,Mantenimiento General,Junior,2,No,10.5,52.82523077136926
+EQ-1071,Laptop,Mantenimiento General,Senior,2,No,7.3,108.07746635546843
+EQ-1072,Laptop,Mantenimiento General,Junior,1,Sí,5.5,49.47915854136485
+EQ-1073,Impresora,Mantenimiento General,Senior,2,No,5.2,155.55122502850958
+EQ-1074,Impresora,Hardware Pantalla,Semi-Senior,2,No,12.6,98.02547760639096
+EQ-1075,Impresora,Hardware Pantalla,Senior,2,No,8.0,105.33869175530195
+EQ-1076,Impresora,Placa Madre,Junior,2,No,34.6,106.02718505875141
+EQ-1077,Laptop,Hardware Pantalla,Semi-Senior,0,No,8.7,0.0
+EQ-1078,Desktop,Placa Madre,Senior,2,Sí,17.4,115.97816507128269
+EQ-1079,Laptop,Placa Madre,Semi-Senior,2,No,23.4,154.16840106479884
+EQ-1080,Smartphone,Mantenimiento General,Semi-Senior,1,Sí,3.8,56.09670920877987
+EQ-1081,Servidor,Software,Semi-Senior,1,No,8.2,49.47915854136485
+EQ-1082,Laptop,Software,Semi-Senior,3,No,10.2,219.15716340271342
+EQ-1083,Laptop,Software,Semi-Senior,1,No,7.9,33.68478631693595
+EQ-1084,Laptop,Hardware Pantalla,Semi-Senior,1,No,9.6,32.7226903944936
+EQ-1085,Laptop,Software,Senior,2,Sí,9.4,113.317718662119
+EQ-1086,Impresora,Hardware Pantalla,Junior,0,Sí,12.8,0.0
+EQ-1087,Servidor,Hardware Pantalla,Junior,3,Sí,22.4,211.17503451600967
+EQ-1088,Smartphone,Software,Senior,1,Sí,4.1,74.00138740388067
+EQ-1089,Desktop,Hardware Pantalla,Senior,1,No,8.0,41.20528275816309
+EQ-1090,Laptop,Software,Semi-Senior,2,No,5.9,68.42446707693784
+EQ-1091,Impresora,Software,Semi-Senior,2,Sí,6.9,133.66306182926343
+EQ-1092,Impresora,Mantenimiento General,Junior,1,No,7.7,36.48836213288817
+EQ-1093,Desktop,Software,Junior,1,No,10.3,69.3568591108207
+EQ-1094,Impresora,Software,Semi-Senior,4,No,17.9,181.69718087570308
+EQ-1095,Desktop,Hardware Pantalla,Junior,1,No,13.8,60.052993957488226
+EQ-1096,Desktop,Placa Madre,Semi-Senior,2,Sí,20.1,51.46423766016018
+EQ-1097,Desktop,Software,Junior,3,No,13.5,172.29467844178313
+EQ-1098,Laptop,Hardware Pantalla,Senior,0,No,3.3,0.0
+EQ-1099,Laptop,Software,Senior,2,No,7.9,110.39301558105689
+EQ-1100,Laptop,Software,Semi-Senior,3,Sí,9.0,90.24255739407542
+EQ-1101,Servidor,Hardware Pantalla,Semi-Senior,1,No,10.4,64.21242469665093
+EQ-1102,Laptop,Hardware Pantalla,Junior,1,Sí,16.2,71.7678246525937
+EQ-1103,Desktop,Hardware Pantalla,Senior,0,Sí,5.4,0.0
+EQ-1104,Smartphone,Placa Madre,Semi-Senior,1,No,21.9,25.742873331209704
+EQ-1105,Laptop,Mantenimiento General,Junior,2,No,10.2,42.836630325560364
+EQ-1106,Desktop,Hardware Pantalla,Senior,1,No,3.9,58.51829002659596
+EQ-1107,Impresora,Software,Senior,1,Sí,3.0,56.42564216532685
+EQ-1108,Laptop,Placa Madre,Senior,1,No,11.5,52.8018447628442
+EQ-1109,Laptop,Software,Semi-Senior,0,Sí,8.0,0.0
+EQ-1110,Laptop,Hardware Pantalla,Semi-Senior,1,Sí,9.8,43.45435975433088
+EQ-1111,Laptop,Software,Semi-Senior,2,No,11.6,111.33716022234077
+EQ-1112,Smartphone,Software,Senior,1,No,1.5,49.80601153155016
+EQ-1113,Impresora,Mantenimiento General,Senior,1,No,3.0,79.26713121289325
+EQ-1114,Servidor,Mantenimiento General,Junior,1,No,8.1,28.18638515340399
+EQ-1115,Smartphone,Placa Madre,Junior,1,No,29.4,61.708673242855625
+EQ-1116,Impresora,Hardware Pantalla,Junior,2,No,17.1,88.51825217251505
+EQ-1117,Laptop,Software,Senior,0,Sí,1.0,0.0
+EQ-1118,Smartphone,Software,Senior,1,No,7.6,63.05586593949057
+EQ-1119,Desktop,Software,Junior,1,No,9.6,61.54616907946218
+EQ-1120,Impresora,Hardware Pantalla,Semi-Senior,0,Sí,8.8,0.0
+EQ-1121,Smartphone,Placa Madre,Junior,0,No,25.6,0.0
+EQ-1122,Laptop,Placa Madre,Senior,1,No,15.2,26.24657896304998
+EQ-1123,Laptop,Software,Senior,0,Sí,2.2,0.0
+EQ-1124,Laptop,Mantenimiento General,Senior,2,Sí,2.8,109.4064300407691
+EQ-1125,Desktop,Placa Madre,Semi-Senior,1,No,19.9,36.44963999358835
+EQ-1126,Impresora,Hardware Pantalla,Semi-Senior,1,Sí,9.7,49.47915854136485
+EQ-1127,Smartphone,Hardware Pantalla,Junior,0,No,14.1,0.0
+EQ-1128,Laptop,Hardware Pantalla,Junior,3,No,13.5,171.05275241823102
+EQ-1129,Desktop,Software,Senior,1,No,5.3,31.512039483124575
+EQ-1130,Desktop,Software,Senior,0,No,1.0,0.0
+EQ-1131,Laptop,Placa Madre,Senior,0,No,13.2,0.0
+EQ-1132,Laptop,Software,Senior,2,No,7.5,82.59955669983248
+EQ-1133,Laptop,Software,Semi-Senior,0,No,3.8,0.0
+EQ-1134,Smartphone,Software,Semi-Senior,0,No,5.6,0.0
+EQ-1135,Laptop,Software,Senior,1,Sí,2.3,24.056753815532893
+EQ-1136,Desktop,Mantenimiento General,Senior,0,No,4.3,0.0
+EQ-1137,Impresora,Placa Madre,Junior,1,No,27.6,34.02272491462598
+EQ-1138,Desktop,Hardware Pantalla,Semi-Senior,1,No,6.9,52.400714876270634
+EQ-1139,Smartphone,Software,Junior,0,No,5.5,0.0
+EQ-1140,Smartphone,Hardware Pantalla,Senior,0,No,1.4,0.0
+EQ-1141,Laptop,Hardware Pantalla,Semi-Senior,3,No,14.5,155.93240157924035
+EQ-1142,Desktop,Software,Junior,1,No,7.5,49.47915854136485
+EQ-1143,Laptop,Hardware Pantalla,Semi-Senior,0,No,10.5,0.0
+EQ-1144,Laptop,Software,Semi-Senior,1,No,7.3,60.16921731189141
+EQ-1145,Laptop,Hardware Pantalla,Junior,0,No,9.2,0.0
+EQ-1146,Servidor,Hardware Pantalla,Junior,0,No,10.3,0.0
+EQ-1147,Desktop,Software,Semi-Senior,0,Sí,5.0,0.0
+EQ-1148,Laptop,Software,Semi-Senior,0,No,5.7,0.0
+EQ-1149,Laptop,Hardware Pantalla,Semi-Senior,1,No,12.4,47.91233673702309
+EQ-1150,Smartphone,Hardware Pantalla,Semi-Senior,2,Sí,14.4,47.21708111209423
+EQ-1151,Laptop,Mantenimiento General,Senior,0,No,1.9,0.0
+EQ-1152,Laptop,Placa Madre,Semi-Senior,1,Sí,20.7,77.45751707032281
+EQ-1153,Desktop,Software,Semi-Senior,0,No,6.6,0.0
+EQ-1154,Smartphone,Software,Senior,1,No,4.2,61.400293449239946
+EQ-1155,Laptop,Hardware Pantalla,Semi-Senior,1,Sí,10.8,49.47915854136485
+EQ-1156,Servidor,Software,Junior,0,No,5.3,0.0
+EQ-1157,Impresora,Hardware Pantalla,Junior,2,No,14.9,51.601173957606356
+EQ-1158,Laptop,Mantenimiento General,Semi-Senior,4,No,11.1,188.08902470196443
+EQ-1159,Impresora,Hardware Pantalla,Semi-Senior,0,Sí,6.6,0.0
+EQ-1160,Desktop,Software,Semi-Senior,0,Sí,3.7,0.0
+EQ-1161,Servidor,Hardware Pantalla,Junior,2,No,13.9,119.78940693846616
+EQ-1162,Servidor,Hardware Pantalla,Junior,0,No,11.6,0.0
+EQ-1163,Desktop,Hardware Pantalla,Junior,3,No,18.9,226.89200750630147
+EQ-1164,Laptop,Mantenimiento General,Junior,0,Sí,3.3,0.0
+EQ-1165,Impresora,Software,Semi-Senior,0,No,4.0,0.0
+EQ-1166,Laptop,Mantenimiento General,Junior,1,No,6.8,29.144960799825046
+EQ-1167,Laptop,Mantenimiento General,Semi-Senior,1,No,5.9,79.5490101295025
+EQ-1168,Laptop,Software,Senior,2,Sí,6.5,151.24011615091544
+EQ-1169,Desktop,Software,Junior,0,No,8.2,0.0
+EQ-1170,Servidor,Software,Semi-Senior,0,No,1.0,0.0
+EQ-1171,Laptop,Software,Semi-Senior,0,No,9.9,0.0
+EQ-1172,Desktop,Software,Junior,3,No,10.3,172.24542384049676
+EQ-1173,Laptop,Placa Madre,Semi-Senior,1,No,20.8,25.347465926960997
+EQ-1174,Servidor,Software,Senior,2,No,4.9,130.63245045961696
+EQ-1175,Laptop,Software,Senior,1,Sí,6.1,27.66280901811409
+EQ-1176,Servidor,Mantenimiento General,Junior,0,No,5.1,0.0
+EQ-1177,Desktop,Software,Senior,1,No,3.5,66.92168526022316
+EQ-1178,Smartphone,Mantenimiento General,Semi-Senior,1,Sí,7.1,62.52468186457859
+EQ-1179,Laptop,Software,Junior,1,No,7.7,22.169622831485725
+EQ-1180,Laptop,Software,Semi-Senior,1,No,7.1,38.187701356719714
+EQ-1181,Laptop,Placa Madre,Senior,0,Sí,10.8,0.0
+EQ-1182,Smartphone,Hardware Pantalla,Semi-Senior,1,No,9.9,41.60818444829114
+EQ-1183,Smartphone,Mantenimiento General,Junior,3,No,14.5,75.77569441749094
+EQ-1184,Laptop,Placa Madre,Semi-Senior,0,No,19.9,0.0
+EQ-1185,Servidor,Mantenimiento General,Junior,0,Sí,5.1,0.0
+EQ-1186,Impresora,Software,Junior,1,No,7.1,38.33145863948141
+EQ-1187,Desktop,Software,Junior,1,No,8.1,43.818891024457
+EQ-1188,Desktop,Placa Madre,Junior,1,No,29.4,46.83215243029014
+EQ-1189,Laptop,Mantenimiento General,Junior,0,No,5.4,0.0
+EQ-1190,Laptop,Mantenimiento General,Junior,0,Sí,2.3,0.0
+EQ-1191,Smartphone,Hardware Pantalla,Semi-Senior,2,No,13.3,150.3270367857301
+EQ-1192,Smartphone,Software,Junior,1,Sí,5.8,49.817808974349816
+EQ-1193,Servidor,Placa Madre,Junior,3,Sí,36.3,238.5884426681963
+EQ-1194,Laptop,Software,Senior,1,No,3.3,71.08549746470575
+EQ-1195,Laptop,Mantenimiento General,Semi-Senior,0,No,3.6,0.0
+EQ-1196,Impresora,Mantenimiento General,Semi-Senior,1,No,7.0,75.83571287863498
+EQ-1197,Smartphone,Hardware Pantalla,Junior,2,No,15.5,53.96396774625713
+EQ-1198,Smartphone,Placa Madre,Junior,3,No,33.7,207.14094752841447
+EQ-1199,Impresora,Placa Madre,Junior,3,Sí,35.9,128.5121928257844
